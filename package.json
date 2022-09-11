@@ -1,0 +1,21 @@
+{
+  "name": "mashup_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "*",
+    "dotenv": "*",
+    "express": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "author": "Md Ariful Islam, Senior webdev Coach, DCI",
+  "license": "ISC"
+}
