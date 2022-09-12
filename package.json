@@ -8,6 +8,7 @@
     "server": "nodemon server.js"
   },
   "dependencies": {
+    "@cicciosgamino/openweather-apis": "^5.2.0",
     "cors": "*",
     "dotenv": "*",
     "express": "*",

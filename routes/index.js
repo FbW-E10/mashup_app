@@ -6,4 +6,6 @@ router.get('/', (req, res)=>{
     res.json('That should be landing page or test route')
 })
 
+router.get('/api/mashup/:userId', indexController.getMovieByUserIdAndWeather)
+
 module.exports = router;
