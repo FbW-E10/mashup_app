@@ -3,7 +3,7 @@
 ### what is Mashup: 
 Rest API call inside another api call is called mashup which used a lot for data anylysis and data science. 
 
-### Taks:
+### Tasks:
 
 #### step 01: create a controller method which can take a user id as params from request and use API 1 to get 1 user data
 
